@@ -9,7 +9,5 @@
 // npm install react-icons --save     use this to install the react icons
 // now choosing the icons like here we use edit icon  
 
-//2. import { FaEdit } from "react-icons/fa";   isko add karo app.jsx ma  and use <FaEdit> tag jahan jahan aap use karna chahta ho
-
 //3. installing npm intall uuid
 
